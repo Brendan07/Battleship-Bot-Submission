@@ -1,0 +1,8 @@
+﻿  BattleshipBot.cpp
+\\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\windows\downloads\battleshipbot (1)\battleshipbot wip\battleshipbot\battleshipbot.cpp(244): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\windows\downloads\battleshipbot (1)\battleshipbot wip\battleshipbot\battleshipbot.cpp(283): warning C4804: '>': unsafe use of type 'bool' in operation
+\\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\windows\downloads\battleshipbot (1)\battleshipbot wip\battleshipbot\battleshipbot.cpp(525): warning C4474: 'sscanf_s' : too many arguments passed for format string
+  \\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\windows\downloads\battleshipbot (1)\battleshipbot wip\battleshipbot\battleshipbot.cpp(525): note: placeholders and their parameters expect 4 variadic arguments, but 5 were provided
+\\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\windows\downloads\battleshipbot (1)\battleshipbot wip\battleshipbot\battleshipbot.cpp(531): warning C4474: 'sscanf_s' : too many arguments passed for format string
+  \\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\windows\downloads\battleshipbot (1)\battleshipbot wip\battleshipbot\battleshipbot.cpp(531): note: placeholders and their parameters expect 4 variadic arguments, but 5 were provided
+  BattleshipBot.vcxproj -> \\nstu-nas01.uwe.ac.uk\users1$\bp2-baker\Windows\Downloads\BattleshipBot (1)\BattleshipBot WIP\Debug\BattleshipBot.exe
